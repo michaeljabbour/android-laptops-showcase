@@ -29,9 +29,9 @@ This project demonstrates multiple Amplifier capabilities:
    - Automated file copying and organization
    - Clean directory structure
 
-4. **GitHub Integration** (planned)
+4. **GitHub Integration**
    - Repository creation via GitHub MCP tools
-   - Automated commit workflow via git-ops agent
+   - Automated commit and push workflow
    - Professional repository setup
 
 ## 📁 Project Structure
